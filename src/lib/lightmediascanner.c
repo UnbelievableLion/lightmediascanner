@@ -280,7 +280,7 @@ _plugin_sort(const struct parser *a, const struct parser *b)
 }
 
 /**
- * Add parser plugin given it's shared object path.
+ * Add parser plugin given its shared object path.
  *
  * @param lms previously allocated Light Media Scanner instance.
  * @param so_path path to shared object (usable by dlopen(3)).
