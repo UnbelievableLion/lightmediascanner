@@ -339,7 +339,7 @@ lms_parser_find(char *buf, int buf_size, const char *name)
 
 
 /**
- * Add parser plugin given it's name.
+ * Add parser plugin given its name.
  *
  * This will look at default plugin path by the file named @p name (plus
  * the required shared object extension).
